@@ -1,0 +1,5 @@
+clientKinect.py : dummy client to test the server's connectivity
+serverKinect_screen.py : Server with image preview
+serverKinect.py : Server without image preview
+serverKinect_fake.py : Dummy server (sends random stuff organized as a Kinect skeleton)
+

@@ -1,0 +1,5 @@
+kinect_axis_angle.blend : Bones controlled by kinect (just bones, no object)
+kinect_axis_angle_no_rigging.blend : Bones controlled by kinect with basic object rigged to it 
+kinect_interface.blend : Bones controlled by kinect with methods to position objects using hands (open and close fingers) 
+
+kinect_interface_IK.blend and kinect2.blend : attempt to use inverse kinematics to filter skeleton movement (not even started, I don't remember)

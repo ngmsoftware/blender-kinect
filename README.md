@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=oKTQPcK8uc4
 
 ## Screen-shoots
 
-![Screenshoot 1](/docs/img1.png?raw=true "Blender file with custom panel")
+![Screenshoot 1](/doc/img1.png?raw=true "Blender file with custom panel")
 
 ## Instructions
 

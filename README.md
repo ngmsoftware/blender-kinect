@@ -1,17 +1,22 @@
 # Blender Kinect
 
-Blender interface with Kinect.
+Blender interface with Kinect. 
 
-## Software
+Youtube demo:
+https://www.youtube.com/watch?v=oKTQPcK8uc4
+
+## Software dependencies
 
 - PyKinect2
 - pygame
 
-## Hardware
+## Hardware dependencies
 
 - Kinect sensor
 
 ## Screen-shoots
+
+![Screenshoot 1](/docs/img1.png?raw=true "Blender file with custom panel")
 
 ## Instructions
 
